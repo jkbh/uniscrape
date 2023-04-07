@@ -1,0 +1,1 @@
+Ein Versuch Modulinformation für den Master Informatik an der Uni Lübeck zusammenzuführen.
