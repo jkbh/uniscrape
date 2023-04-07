@@ -1,0 +1,2276 @@
+[
+    {
+        "id": "MA4450",
+        "name": " Modulteil: Modellierung Biologischer Systeme (MoBSa) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "MA4450-Ü",
+                "name": "Modellierung biologischer Systeme",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "MA4450-V",
+                "name": "Modellierung biologischer Systeme",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Übungsaufgaben"
+    },
+    {
+        "id": "CS4138",
+        "name": " Modulteil: Model Checking (ModelCha14) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS4138-Ü",
+                "name": "Model Checking",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4138-V",
+                "name": "Model Checking",
+                "type": "Vorlesung",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS4140",
+        "name": " Modulteil: Mobile und verteilte Datenbanken (MVDBa) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS4140-Ü",
+                "name": "Mobile und verteilte Datenbanken",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4140-V",
+                "name": "Mobile und verteilte Datenbanken",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5450",
+        "name": " Modulteil: Maschinelles Lernen (MaschLerna) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5450-Ü",
+                "name": "Maschinelles Lernen",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5450-V",
+                "name": "Maschinelles Lernen",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5170",
+        "name": " Modulteil: Hardware/Software Co-Design (HWSWCoda) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5170-Ü",
+                "name": "Hardware/Software Co-Design",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5170-V",
+                "name": "Hardware/Software Co-Design",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5153",
+        "name": " Modulteil: Drahtlose Sensornetze (DlSensorNa) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5153-Ü",
+                "name": "Drahtlose Sensornetze",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5153-V",
+                "name": "Drahtlose Sensornetze",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "MA4400",
+        "name": " Modulteil: Chaos und Komplexität biologischer Systeme (CKBSa) ",
+        "dauer": "1 Semester",
+        "turnus": "Unregelmäßig",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "MA4400-Ü",
+                "name": "Chaos und Komplexität",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "MA4400-V",
+                "name": "Chaos und Komplexität",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS3110",
+        "name": " Modulteil: Computergestützter Schaltungsentwurf (SchaltEnta) ",
+        "dauer": "1 Semester",
+        "turnus": "Unregelmäßig im Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS3110-V",
+                "name": "Computergestützter Schaltungsentwurf",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS3110-Ü",
+                "name": "Computergestützter Schaltungsentwurf",
+                "type": "Übung",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "MA2600",
+        "name": " Modulteil: Biostatistik 2 (BioStat2a) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "MA2600-Ü",
+                "name": "Biostatistik 2",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "MA2600-V",
+                "name": "Biostatistik 2",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5275",
+        "name": " Modulteil: Ausgewählte Methoden der Signalanalyse und -verbesserung (AMSAVa) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5275-Ü",
+                "name": "Ausgewählte Methoden der Signalanalyse und -verbesserung",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5275-V",
+                "name": "Ausgewählte Methoden der Signalanalyse und -verbesserung",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5410",
+        "name": " Modulteil: Artificial Life (ArtiLifea) ",
+        "dauer": "1 Semester",
+        "turnus": "Unregelmäßig",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5410-Ü",
+                "name": "Artificial Life",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5410-V",
+                "name": "Artificial Life",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS4670",
+        "name": " Modulteil: Ambient Computing (AmbCompa) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS4670-V",
+                "name": "Ambient Computing",
+                "type": "Vorlesung",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5158",
+        "name": " Modulteil: Advanced Internet Technologies (AdInternea) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5158-V",
+                "name": "Advanced Internet Technologies",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS5158-Ü",
+                "name": "Advanced Internet Technologies",
+                "type": "Übung",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5990",
+        "name": " Masterarbeit Informatik (MasterInf) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Semester",
+        "ects": "30",
+        "consists_of": [
+            {
+                "id": null,
+                "name": "Verfassen der Masterarbeit",
+                "type": "betreutes Selbststudium",
+                "SWS": "1"
+            },
+            {
+                "id": null,
+                "name": "Kolloquium zur Masterarbeit",
+                "type": "Kolloquium",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Vortrag"
+    },
+    {
+        "id": "CS4170",
+        "name": " Parallelrechnersysteme (ParaRSys14) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS4170-Ü",
+                "name": "Parallelrechnersysteme",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4170-V",
+                "name": "Parallelrechnersysteme",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Klausur"
+    },
+    {
+        "id": "CS4160",
+        "name": " Echtzeitsysteme (Echtzeit14) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS4160-Ü",
+                "name": "Echtzeitsysteme",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4160-V",
+                "name": "Echtzeitsysteme",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Klausur"
+    },
+    {
+        "id": "PS5010",
+        "name": " Zukunftsfähige Energieversorgung (EnergieZuk) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4 (Typ B)",
+        "consists_of": [
+            {
+                "id": "PS5010-S",
+                "name": "Zukunftsfähige Energieversorgung",
+                "type": "Seminar und Projektarbeit",
+                "SWS": "2"
+            },
+            {
+                "id": "PS5010-V",
+                "name": "Zukunftsfähige Energieversorgung",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Präsentation"
+    },
+    {
+        "id": "PS4680",
+        "name": " Über Rassismus und andere -Ismen (RassIs) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4 (Typ B)",
+        "consists_of": [
+            {
+                "id": "PS4680-S",
+                "name": "Über Rassismus und andere -Ismen",
+                "type": "Seminar",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Regelmäßige und erfolgreiche Teilnahme am Lehrmodul"
+    },
+    {
+        "id": "LS2807",
+        "name": " Wissenschaftstheorie (WissTheo) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "LS2807-V: Grundlagen der Evolutionstheorie",
+                "name": "Historische und philosophische Perspektiven",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "LS2807-S: Grundlagen der Evolutionstheorie",
+                "name": "Historische und philosophische Perspektiven",
+                "type": "Seminar",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Eigenes Referat und Essay"
+    },
+    {
+        "id": "EC4501",
+        "name": " Verhandlungsführung (WFVerfuehr) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EC4501-Ü",
+                "name": "Verhandlungsführung",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "EC4501-V",
+                "name": "Verhandlungsführung",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    },
+    {
+        "id": "EC5020",
+        "name": " Unternehmensplanspiel (PlanSp) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "EC5020-V",
+                "name": "Unternehmensplanspiel",
+                "type": "Vorlesung",
+                "SWS": "1"
+            },
+            {
+                "id": "EC5020-P",
+                "name": "Unternehmensplanspiel",
+                "type": "Projektarbeit",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Erfolgreiche Lösung der Projektaufgabe"
+    },
+    {
+        "id": "PS4670",
+        "name": " Studium Generale (StuGen) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4 (Typ B)",
+        "consists_of": [
+            {
+                "id": "PS4670-S",
+                "name": "Studium Generale",
+                "type": "Seminar",
+                "SWS": "1"
+            },
+            {
+                "id": "PS4670-V",
+                "name": "Studium Generale",
+                "type": "Wissenschaftlicher Vortrag",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Regelmäßige und erfolgreiche Teilnahme am Kurs"
+    },
+    {
+        "id": "PS5000",
+        "name": " Studierendentagung (ST) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "6 (Typ B)",
+        "consists_of": [
+            {
+                "id": "PS5000-S",
+                "name": "Studierendentagung",
+                "type": "Seminar",
+                "SWS": "4"
+            }
+        ],
+        "pruefung": "Regelmäßige und erfolgreiche Teilnahme am Lehrmodul"
+    },
+    {
+        "id": "EC4004",
+        "name": " Strategisches Management (StratMng) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EC4004-Ü",
+                "name": "Strategisches Management",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "EC4004-V",
+                "name": "Strategisches Management",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    },
+    {
+        "id": "CS5820",
+        "name": " Rechtliche Grundlagen für die IT (ITRecht) ",
+        "dauer": "1 Semester",
+        "turnus": "Wird nicht mehr angeboten",
+        "ects": "4 (Typ B)",
+        "consists_of": [
+            {
+                "id": "CS5820-S",
+                "name": "Rechtliche Grundlagen für die IT",
+                "type": "Seminar",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5820-V",
+                "name": "Rechtliche Grundlagen für die IT",
+                "type": "Vorlesung",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Klausur oder mündliche Prüfung nach Maßgabe des Dozenten"
+    },
+    {
+        "id": "EW2412",
+        "name": " Qualitätsmanagement (WFQM) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "3",
+        "consists_of": [
+            {
+                "id": "EW2412-V",
+                "name": "Qualitätsmanagement",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Klausur"
+    },
+    {
+        "id": "PS1050",
+        "name": " Interkulturell kompetent in Studium, Beruf und Gesellschaft (IKKSBG) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "PS1050-S",
+                "name": "Seminare zu wechselnden Themen im Bereich Interkulturelle Kompetenz",
+                "type": "Seminar",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Regelmäßige und erfolgreiche Teilnahme am Kurs"
+    },
+    {
+        "id": "EC4007",
+        "name": " Innovations- und Technologiemanagement (WFIuTMng) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EC4007-V",
+                "name": "Innovations- und Technologiemanagement",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "EC4007-Ü",
+                "name": "Innovations- und Technologiemanagement",
+                "type": "Übung",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Klausur oder mündliche Prüfung nach Maßgabe des Dozenten"
+    },
+    {
+        "id": "PS4620",
+        "name": " Ethik der Forschung (EthikKP04) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4 (Typ B)",
+        "consists_of": [
+            {
+                "id": "PS4620-S",
+                "name": "Ethik der Forschung in den Life Sciences",
+                "type": "Seminar",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Regelmäßige und erfolgreiche Teilnahme am Kurs"
+    },
+    {
+        "id": "PS5430",
+        "name": " Ethical Design Considerations in Medical Technology (EthMedTech) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "PS5430-P",
+                "name": "Ethische Aspekte des Entwurfs von Medizintechnik",
+                "type": "Projektarbeit",
+                "SWS": "1"
+            },
+            {
+                "id": "PS5430-V",
+                "name": "Ethische Aspekte des Entwurfs von Medizintechnik",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    },
+    {
+        "id": "EC4503",
+        "name": " Entrepreneurship und Segeln (EnuSe) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EC4503-Ü",
+                "name": "Entrepreneurship und Segeln - Entwicklung einer Kampagne",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "EC4503-V",
+                "name": "Entrepreneurship und Segeln",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Hausarbeit"
+    },
+    {
+        "id": "EC5010",
+        "name": " Entrepreneurship in der digitalen Wirtschaft (EEntre) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EC5010-V",
+                "name": "Entrepreneurship in der digitalen Wirtschaft",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "EC5010-Ü",
+                "name": "Entrepreneurship in der digitalen Wirtschaft",
+                "type": "Übung",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    },
+    {
+        "id": "EC4510",
+        "name": " Entrepreneurial und High-Tech-Marketing (EntMark) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "EC4510-V",
+                "name": "Entrepreneurial und High-Tech-Marketing",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "EC4510-Ü",
+                "name": "Entrepreneurial und High-Tech-Marketing",
+                "type": "Übung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Hausarbeit"
+    },
+    {
+        "id": "EC4502",
+        "name": " Entrepreneurial Behavior (WEntrBehav) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EC4502-Ü",
+                "name": "Entrepreneurial Behavior",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "EC4502-V",
+                "name": "Entrepreneurial Behavior",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    },
+    {
+        "id": "ME4520",
+        "name": " Einführung in das Medizinprodukterecht (EinfMPR) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "ME4520-V",
+                "name": "Einführung in das Medizinprodukterecht",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "ME4520-S",
+                "name": "Einführung in das Medizinprodukterecht",
+                "type": "Seminar",
+                "SWS": "1"
+            },
+            {
+                "id": "ME4520-Ü",
+                "name": "Einführung in das Medizinprodukterecht",
+                "type": "Übung",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    },
+    {
+        "id": "EC5002",
+        "name": " Businessplan (WFBusiPlan) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EC5002-P",
+                "name": "Businessplan",
+                "type": "Projektarbeit",
+                "SWS": "1"
+            },
+            {
+                "id": "EC5002-Ü",
+                "name": "Businessplan",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "EC5002-V",
+                "name": "Businessplan",
+                "type": "Vorlesung",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    },
+    {
+        "id": "EC4550",
+        "name": " Blockchain for Business (BlockBusi) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EC4550-Ü",
+                "name": "Blockchain Entrepreneurship",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "EC4550-V",
+                "name": "Blockchain Entrepreneurship",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    },
+    {
+        "id": "PS1500",
+        "name": " Nachhaltigkeitswissenschaften mit Schwerpunkt Ökologie & Biotechnologie (NachWiss) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "5",
+        "consists_of": [
+            {
+                "id": "PS1500-Ü",
+                "name": "Nachhaltigkeitswissenschaften",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "PS1500-S",
+                "name": "Nachhaltigkeitswissenschaften",
+                "type": "Seminar",
+                "SWS": "1"
+            },
+            {
+                "id": "PS1500-V",
+                "name": "Nachhaltigkeitswissenschaften",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    },
+    {
+        "id": "PS1100",
+        "name": " Gesellschaftliche und ökonomische Aspekte der Nachhaltigkeit (OekoNach) ",
+        "dauer": "2 Semester",
+        "turnus": "Jedes Wintersemester beginnend",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "PS1100-S",
+                "name": "Gesellschaftliche und ökonomische Aspekte der Nachhaltigkeit",
+                "type": "Seminar",
+                "SWS": "1"
+            },
+            {
+                "id": "PS1100-V",
+                "name": "Nachhaltige Bioökonomie",
+                "type": "Vorlesung",
+                "SWS": "1"
+            },
+            {
+                "id": "EC4008-V",
+                "name": "Entrepreneurship & Innovation",
+                "type": "Vorlesung",
+                "SWS": "3"
+            },
+            {
+                "id": "PS1102-V",
+                "name": "Gesellschaftliche Einordnung der Nachhaltigkeitswissenschaften",
+                "type": "Vorlesung",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    },
+    {
+        "id": "CS4505",
+        "name": " Systemarchitektur (SysArch) ",
+        "dauer": "2 Semester",
+        "turnus": "Unregelmäßig",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS5170 T",
+                "name": "Hardware/Software Co-Design",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS3110 T",
+                "name": "Computergestützter Schaltungsentwurf",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS4505-P",
+                "name": "Praktikum Systemarchitektur",
+                "type": "Praktikum",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4510",
+        "name": " Signalanalyse (SignalAna) ",
+        "dauer": "2 Semester",
+        "turnus": "Jährlich, kann sowohl im SoSe als auch im WiSe begonnen werden",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS5275 T",
+                "name": "Ausgewählte Methoden der Signalanalyse und -verbesserung",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS5194 T",
+                "name": "Projektpraktikum Signal- und Bildverarbeitung",
+                "type": "Projektarbeit",
+                "SWS": "3"
+            },
+            {
+                "id": "CS5260SJ14 T",
+                "name": "Sprach- und Audiosignalverarbeitung",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4506",
+        "name": " Sicherheit von Daten und Kommunikation (SDK) ",
+        "dauer": "2 Semester",
+        "turnus": "Jährlich, kann sowohl im SoSe als auch im WiSe begonnen werden",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS4211-Ü",
+                "name": "Modellierung und Analyse von Sicherheit",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4211-P",
+                "name": "Modellierung und Analyse von Sicherheit",
+                "type": "Praktikum",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4211-S",
+                "name": "Modellierung und Analyse von Sicherheit",
+                "type": "Seminar",
+                "SWS": "3"
+            },
+            {
+                "id": "CS4210-Ü",
+                "name": "Kryptographische Protokolle",
+                "type": "Übung, 1",
+                "SWS": "5"
+            },
+            {
+                "id": "CS4210-V",
+                "name": "Kryptographische Protokolle",
+                "type": "Vorlesung",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4509",
+        "name": " Internet-Strukturen und Protokolle / Internet-Technologien (Internet) ",
+        "dauer": "2 Semester",
+        "turnus": "Wird nicht mehr angeboten",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS4509-P",
+                "name": "Internet-Technologien",
+                "type": "Projektarbeit",
+                "SWS": "3"
+            },
+            {
+                "id": "CS4151 T",
+                "name": "Systemarchitekturen für verteilte Anwendungen",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS5158 T",
+                "name": "Advanced Internet Technologies",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4520",
+        "name": " Fallstudie zur professionellen Produktentwicklung (Fallstudie) ",
+        "dauer": "2 Semester",
+        "turnus": "Jedes Semester",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS4520-P",
+                "name": "Fallstudie zur Produktentwicklung",
+                "type": "Praktikum",
+                "SWS": "6"
+            },
+            {
+                "id": "CS4520-Ü",
+                "name": "Grundlagen der Produktentwicklung",
+                "type": "Übung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4508",
+        "name": " Datenmanagement (DatManag) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS4508-S",
+                "name": "Seminar Datenmanagement",
+                "type": "Seminar",
+                "SWS": "2"
+            },
+            {
+                "id": "CS5140 T",
+                "name": "Semantic Web",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS4140 T",
+                "name": "Mobile und verteilte Datenbanken",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4504",
+        "name": " Cyber Physical Systems (CPS) ",
+        "dauer": "2 Semester",
+        "turnus": "Jährlich, kann sowohl im SoSe als auch im WiSe begonnen werden",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS5150 T",
+                "name": "Organic Computing",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS4504-S",
+                "name": "Seminar Cyber Physical Systems",
+                "type": "Seminar",
+                "SWS": "2"
+            },
+            {
+                "id": "CS5153 T",
+                "name": "Drahtlose Sensornetze",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4521",
+        "name": " Constructive Cognitive Science (CCS) ",
+        "dauer": "2 Semester",
+        "turnus": "Jedes Semester",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": null,
+                "name": "Human-Aware AI",
+                "type": "Übung mit Projekt",
+                "SWS": "3"
+            },
+            {
+                "id": null,
+                "name": "Human-Aware AI",
+                "type": "Vorlesung",
+                "SWS": "3"
+            },
+            {
+                "id": null,
+                "name": "Models for human intelligent Assistance",
+                "type": "Vorlesung",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Übungs- bzw. Projektaufgaben"
+    },
+    {
+        "id": "CS4515",
+        "name": " Computer- und Systemsicherheit (ComSysSec) ",
+        "dauer": "2 Semester",
+        "turnus": "Jährlich, kann sowohl im SoSe als auch im WiSe begonnen werden",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS4702-V",
+                "name": "Computersicherheit",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4702-P",
+                "name": "Computersicherheit",
+                "type": "Praktikum",
+                "SWS": "3"
+            },
+            {
+                "id": "CS4701-Ü",
+                "name": "Kommunikations- und Systemsicherheit",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4701-V",
+                "name": "Kommunikations- und Systemsicherheit",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4701-S",
+                "name": "Kommunikations- und Systemsicherheit",
+                "type": "Seminar",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Klausur oder mündliche Prüfung nach Maßgabe des Dozenten"
+    },
+    {
+        "id": "CS4517",
+        "name": " Architekturen für verteilte Kommunikationssysteme (ArchVeK) ",
+        "dauer": "2 Semester",
+        "turnus": "Jedes Semester",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS4517-P",
+                "name": "Architekturen für verteilte Kommunikationssysteme",
+                "type": "Praktikum",
+                "SWS": "3"
+            },
+            {
+                "id": "CS5162-Ü",
+                "name": "Mobilkommunikation",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5162-V",
+                "name": "Mobilkommunikation",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4151-Ü",
+                "name": "Systemarchitekturen für verteilte Anwendungen",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4151-V",
+                "name": "Systemarchitekturen für verteilte Anwendungen",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4503",
+        "name": " Ambient Computing und Anwendungen (AmbCompA) ",
+        "dauer": "2 Semester",
+        "turnus": "In der Regel jährlich, vorzugsweise im SoSe",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS4503-P",
+                "name": "Projekt Ambient Computing",
+                "type": "Projektarbeit",
+                "SWS": "3"
+            },
+            {
+                "id": "CS4503-S",
+                "name": "Seminar Ambient Computing",
+                "type": "Seminar",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4670 T",
+                "name": "Ambient Computing",
+                "type": "Vorlesung",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4501",
+        "name": " Algorithmik, Logik und Komplexität (ALK14) ",
+        "dauer": "2 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS4501-S",
+                "name": "Seminar Algorithmik, Logik und Komplexität",
+                "type": "Seminar",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4501-Ü",
+                "name": "Algorithmik, Logik und Komplexität",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4501-V",
+                "name": "Algorithmik, Logik und Komplexität",
+                "type": "Vorlesung",
+                "SWS": "4"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4518",
+        "name": " Aktuelle und zukünftige Netzwerktechnologien (AzuNet) ",
+        "dauer": "2 Semester",
+        "turnus": "Jedes Semester",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS4518-S",
+                "name": "Seminar Internet of Things oder Seminar Nanonetzwerke",
+                "type": "Seminar",
+                "SWS": "2"
+            },
+            {
+                "id": "CS5158-V",
+                "name": "Advanced Internet Technologies",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS5161-P",
+                "name": "Nanonetzwerke",
+                "type": "Projektarbeit",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5161-V",
+                "name": "Nanonetzwerke",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS5158-Ü",
+                "name": "Advanced Internet Technologies",
+                "type": "Übung",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4514",
+        "name": " Intelligente Agenten (IntAgents) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS4514-P",
+                "name": "Projektpraktikum Intelligente Agenten",
+                "type": "Praktikum",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4514-V",
+                "name": "Intelligente Agenten",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "6"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4511",
+        "name": " Lernende Systeme (LernSys) ",
+        "dauer": "2 Semester",
+        "turnus": "Unregelmäßig",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS5430 T",
+                "name": "Seminar Maschinelles Lernen",
+                "type": "Seminar",
+                "SWS": "2"
+            },
+            {
+                "id": "CS5450 T",
+                "name": "Maschinelles Lernen",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS4405 T",
+                "name": "Neuroinformatik",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4516",
+        "name": " Bioinformatik und Systembiologie (BioinfVert) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "EW4170 T",
+                "name": "Systembiologie",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "EW4170 T",
+                "name": "Systembiologie",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "MA4450 T-INF",
+                "name": "Modellierung Biologischer Systeme",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "MA4450 T-INF",
+                "name": "Modellierung Biologischer Systeme",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4440 T",
+                "name": "Molekulare Bioinformatik",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4440 T",
+                "name": "Molekulare Bioinformatik",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS5075",
+        "name": " Trustworthy AI (TrustAI) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS5075-Ü",
+                "name": "Trustworthy AI",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5075-V",
+                "name": "Trustworthy AI",
+                "type": "Vorlesung",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4452",
+        "name": " Technische Zuverlässigkeit (TechZuv) ",
+        "dauer": "1 Semester",
+        "turnus": "In der Regel jährlich, vorzugsweise im WiSe",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS4452-Ü",
+                "name": "Technische Zuverlässigkeit",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4452-V",
+                "name": "Technische Zuverlässigkeit",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung oder Klausur"
+    },
+    {
+        "id": "CS4451",
+        "name": " Privacy (Privacy) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS4451-Ü",
+                "name": "Privacy",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4451-V",
+                "name": "Privacy",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "LS3151",
+        "name": " Molekularbiologie (MolBioINF) ",
+        "dauer": "1 Semester",
+        "turnus": "Wird nicht mehr angeboten",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "LS3151-S",
+                "name": "Molekularbiologie",
+                "type": "Seminar",
+                "SWS": "2"
+            },
+            {
+                "id": "LS3151-V",
+                "name": "Molekularbiologie",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4705",
+        "name": " Kryptographische Technik (CryEng) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS4705-Ü",
+                "name": "Kryptographische Technik",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4705-V",
+                "name": "Kryptographische Technik",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Klausur"
+    },
+    {
+        "id": "CS4720",
+        "name": " Energieeffizienz in eingebetteten Systemen (EEE) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "5",
+        "consists_of": [
+            {
+                "id": "CS4720-Ü",
+                "name": "Energieeffizienz in eingebetteten Systemen",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4720-V",
+                "name": "Energieeffizienz in eingebetteten Systemen",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Klausur oder mündliche Prüfung nach Maßgabe des Dozenten"
+    },
+    {
+        "id": "CS4250",
+        "name": " Computer Vision (CompVision) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS4250-Ü",
+                "name": "Computer Vision",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4250-V",
+                "name": "Computer Vision",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS5020",
+        "name": " Algorithmisches Lernen und kausale Inferenz (ALKI) ",
+        "dauer": "1 Semester",
+        "turnus": "In der Regel jährlich, vorzugsweise im SoSe",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS5020-Ü",
+                "name": "Algorithmisches Lernen und kausale Inferenz",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5020-V",
+                "name": "Algorithmisches Lernen und kausale Inferenz",
+                "type": "Vorlesung",
+                "SWS": "4"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS5195",
+        "name": " Aktuelle Themen IT-Sicherheit (AktTheITS) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Semester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5195-P",
+                "name": "Aktuelle Themen IT-Sicherheit",
+                "type": "Projektarbeit",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5195-S",
+                "name": "Aktuelle Themen IT-Sicherheit",
+                "type": "Seminaristischer Unterricht",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS5070",
+        "name": " Aktuelle Themen Data Science und KI (Dataakuell) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Semester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5070-S",
+                "name": "Aktuelle Themen Data Science und KI",
+                "type": "Seminar",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5070-V",
+                "name": "Aktuelle Themen Data Science und KI",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS5400",
+        "name": " Aktuelle Themen Bioinformatik (WahlBioInf) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Semester",
+        "ects": "8",
+        "consists_of": [
+            {
+                "id": "LS1600 T",
+                "name": "Organische Chemie",
+                "type": "Vorlesung",
+                "SWS": "3"
+            },
+            {
+                "id": "EW4170 T",
+                "name": "Systembiologie",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "MA4020 T",
+                "name": "Stochastik 2",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS5450 T",
+                "name": "Maschinelles Lernen",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS5440 T",
+                "name": "Seminar Neuro- und Bioinformatik",
+                "type": "Seminar",
+                "SWS": "2"
+            },
+            {
+                "id": "MA4400 T",
+                "name": "Chaos und Komplexität biologischer Systeme",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS5275 T",
+                "name": "Ausgewählte Methoden der Signalanalyse und -verbesserung",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS5410 T",
+                "name": "Artificial Life",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "MA2600 T",
+                "name": "Biostatistik 2",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "3"
+            },
+            {
+                "id": "CS5549 T",
+                "name": "Projektpraktikum Bioinformatik",
+                "type": "Praktikum",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS4507",
+        "name": " Softwareverifikation (SoftVeri) ",
+        "dauer": "2 Semester",
+        "turnus": "Jährlich, kann sowohl im SoSe als auch im WiSe begonnen werden",
+        "ects": "12",
+        "consists_of": [
+            {
+                "id": "CS4139 T",
+                "name": "Runtime Verification und Testen",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "4"
+            },
+            {
+                "id": "CS5220 T",
+                "name": "Statische Analyse",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "4"
+            },
+            {
+                "id": "CS4138 T",
+                "name": "Model Checking",
+                "type": "Vorlesung mit Übungen",
+                "SWS": "4"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "CS5490",
+        "name": " Projektpraktikum Software Systems Engineering (PrSSE14) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "6 (Typ B)",
+        "consists_of": [
+            {
+                "id": "CS5490-P",
+                "name": "Projektpraktikum Software Systems Engineering",
+                "type": "Programmierprojekt",
+                "SWS": "4"
+            }
+        ],
+        "pruefung": "Regelmäßige und erfolgreiche Teilnahme am Praktikum"
+    },
+    {
+        "id": "CS5170",
+        "name": " Hardware/Software Co-Design (HWSWCod) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5170-Ü",
+                "name": "Hardware/Software Co-Design",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5170-V",
+                "name": "Hardware/Software Co-Design",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Klausur oder mündliche Prüfung nach Maßgabe des Dozenten"
+    },
+    {
+        "id": "CS4212",
+        "name": " Aktuelle Themen Software Systems Engineering (SSEaktuell) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS4212-S",
+                "name": "Aktuelle Themen Software Systems Engineering",
+                "type": "Seminar",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4212-V",
+                "name": "Aktuelle Themen Software Systems Engineering",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Klausur oder mündliche Prüfung nach Maßgabe des Dozenten"
+    },
+    {
+        "id": "CS5131",
+        "name": " Modulteil: Web-Mining-Agenten (WebMininga) ",
+        "dauer": "1 Semester",
+        "turnus": "Wird nicht mehr angeboten",
+        "ects": "8",
+        "consists_of": [
+            {
+                "id": "CS5131-Ü",
+                "name": "Web-Mining-Agenten",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5131-P",
+                "name": "Web-Mining-Agenten",
+                "type": "Praktikum",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5131-V",
+                "name": "Web-Mining-Agenten",
+                "type": "Vorlesung",
+                "SWS": "4"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "EW4170",
+        "name": " Modulteil: Systembiologie (SystBioT) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EW4170-Ü",
+                "name": "Einführung in die klassische und translationale Systembiologie",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "EW4170-V",
+                "name": "Einführung in die klassische und translationale Systembiologie",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Übungsaufgaben"
+    },
+    {
+        "id": "CS4151",
+        "name": " Modulteil: Systemarchitekturen für verteilte Anwendungen (SVAa) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS4151-Ü",
+                "name": "Systemarchitekturen für verteilte Anwendungen",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4151-V",
+                "name": "Systemarchitekturen für verteilte Anwendungen",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "MA4020",
+        "name": " Modulteil: Stochastik 2 (Stoch2a) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "MA4020-Ü",
+                "name": "Stochastik 2",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "MA4020-V",
+                "name": "Stochastik 2",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5220",
+        "name": " Modulteil: Statische Analyse (StatAnaa) ",
+        "dauer": "1 Semester",
+        "turnus": "In der Regel jährlich, vorzugsweise im WiSe",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS5220-Ü",
+                "name": "Statische Analyse",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5220-V",
+                "name": "Statische Analyse",
+                "type": "Vorlesung",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5260",
+        "name": " Modulteil: Sprach- und Audiosignalverarbeitung (SprachA14a) ",
+        "dauer": "1 Semester",
+        "turnus": "In der Regel jährlich, vorzugsweise im SoSe",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": null,
+                "name": "Sprach- und Audiosignalverarbeitung",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": null,
+                "name": "Sprach- und Audiosignalverarbeitung",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5440",
+        "name": " Modulteil: Seminar Neuro- und Bioinformatik (SemNeurBia) ",
+        "dauer": "1 Semester",
+        "turnus": "Unregelmäßig",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5440-S",
+                "name": "Seminar Neuro- und Bioinformatik",
+                "type": "Seminar",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Vortrag"
+    },
+    {
+        "id": "CS5430",
+        "name": " Modulteil: Seminar Maschinelles Lernen (SemMaschLa) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5430-S",
+                "name": "Seminar Maschinelles Lernen",
+                "type": "Seminar",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5140",
+        "name": " Modulteil: Semantic Web (SemWeba) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5140-Ü",
+                "name": "Semantic Web",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5140-V",
+                "name": "Semantic Web",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS4139",
+        "name": " Modulteil: Runtime Verification und Testen (RVTestena) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS4139-Ü",
+                "name": "Runtime Verifikation und Testen",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4139-V",
+                "name": "Runtime Verifikation und Testen",
+                "type": "Vorlesung",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5194",
+        "name": " Modulteil: Projektpraktikum Signal- und Bildverarbeitung (PrSigBildv) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes zweite Semester",
+        "ects": "4 (Typ B)",
+        "consists_of": [
+            {
+                "id": "CS5194-P",
+                "name": "Projektpraktikum Signal- und Bildverarbeitung (iRoom)",
+                "type": "Praktikum",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS5549",
+        "name": " Modulteil: Projektpraktikum Bioinformatik (PrBioinfa) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5549-P",
+                "name": "Projektpraktikum Bioinformatik",
+                "type": "Praktikum",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "LS1600",
+        "name": " Modulteil: Organische Chemie (OCMIa) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "LS1600-V",
+                "name": "Organische Chemie",
+                "type": "Vorlesung",
+                "SWS": "3"
+            }
+        ],
+        "pruefung": "Klausur"
+    },
+    {
+        "id": "CS5150",
+        "name": " Modulteil: Organic Computing (OrganicCoa) ",
+        "dauer": "1 Semester",
+        "turnus": "In der Regel jährlich, vorzugsweise im WiSe",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS5150-Ü",
+                "name": "Organic Computing",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS5150-V",
+                "name": "Organic Computing",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS4220",
+        "name": " Modulteil: Mustererkennung (MEa) ",
+        "dauer": "1 Semester",
+        "turnus": "Wird nicht mehr angeboten",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS4220-V",
+                "name": "Mustererkennung",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4220-Ü",
+                "name": "Mustererkennung",
+                "type": "Übung",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS4405",
+        "name": " Modulteil: Neuroinformatik (NeuroInfa) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS4405-Ü",
+                "name": "Neuroinformatik",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4405-V",
+                "name": "Neuroinformatik",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS4440",
+        "name": " Modulteil: Molekulare Bioinformatik (MolBioInfa) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "CS4440-Ü",
+                "name": "Molekulare Bioinformatik",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "CS4440-V",
+                "name": "Molekulare Bioinformatik",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Prüfungsform hängt vom übergeordneten Modul ab"
+    },
+    {
+        "id": "CS4020",
+        "name": " Spezifikation und Modellierung (SpezMod14) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS4020-Ü",
+                "name": "Spezifikation und Modellierung",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4020-V",
+                "name": "Spezifikation und Modellierung",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Klausur oder mündliche Prüfung nach Maßgabe des Dozenten"
+    },
+    {
+        "id": "CS4000",
+        "name": " Algorithmik (ALG14) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS4000-V",
+                "name": "Algorithmik",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4000-Ü",
+                "name": "Algorithmik",
+                "type": "Übung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Klausur"
+    },
+    {
+        "id": "CS4150",
+        "name": " Verteilte Systeme (VertSys14) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS4150-Ü",
+                "name": "Verteilte Systeme",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4150-V",
+                "name": "Verteilte Systeme",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Klausur"
+    },
+    {
+        "id": "CS4130",
+        "name": " Informationssysteme (InfoSys) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "6",
+        "consists_of": [
+            {
+                "id": "CS4130-Ü",
+                "name": "Informationssysteme",
+                "type": "Übung",
+                "SWS": "2"
+            },
+            {
+                "id": "CS4130-V",
+                "name": "Informationssysteme",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Mündliche Prüfung"
+    },
+    {
+        "id": "PS5810",
+        "name": " Wissenschaftliche Lehrtätigkeit (WLehrKP04) ",
+        "dauer": "1 Semester",
+        "turnus": "Unregelmäßig",
+        "ects": "4 (Typ B)",
+        "consists_of": [
+            {
+                "id": "PS5810-S",
+                "name": "Theorie und Praxis guter Lehre",
+                "type": "Seminar",
+                "SWS": "1"
+            },
+            {
+                "id": "PS5810-P",
+                "name": "Tätigkeit als Tutorin oder Tutor in einer Lehrveranstaltung",
+                "type": "Praktikum",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Regelmäßige Teilnahme an allen Lehrveranstaltungen des Lehrmoduls"
+    },
+    {
+        "id": "EC4010",
+        "name": " Wirtschaftsrecht (WirtRecht) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Sommersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EC4010-V",
+                "name": "Wirtschaftsrecht",
+                "type": "Vorlesung",
+                "SWS": "2"
+            },
+            {
+                "id": "EC4010-Ü",
+                "name": "Wirtschaftsrecht",
+                "type": "Übung",
+                "SWS": "1"
+            }
+        ],
+        "pruefung": "Klausur"
+    },
+    {
+        "id": "EC4008",
+        "name": " Entrepreneurship & Innovation (EI) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EC4008-Ü",
+                "name": "Entrepreneurship und Innovation",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "EC4008-V",
+                "name": "Entrepreneurship und Innovation",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    },
+    {
+        "id": "CS5840",
+        "name": " Englischsprachiges Seminar (SemiEngl) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Semester",
+        "ects": "4 (Typ B)",
+        "consists_of": [
+            {
+                "id": "CS5840-S",
+                "name": "Englischsprachiges Seminar",
+                "type": "Seminar",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Vortrag"
+    },
+    {
+        "id": "EC4001",
+        "name": " Allgemeine BWL (ABWL) ",
+        "dauer": "1 Semester",
+        "turnus": "Jedes Wintersemester",
+        "ects": "4",
+        "consists_of": [
+            {
+                "id": "EC4001-Ü",
+                "name": "Allgemeine Betriebswirtschaftslehre",
+                "type": "Übung",
+                "SWS": "1"
+            },
+            {
+                "id": "EC4001-V",
+                "name": "Allgemeine Betriebswirtschaftslehre",
+                "type": "Vorlesung",
+                "SWS": "2"
+            }
+        ],
+        "pruefung": "Portfolio-Prüfung"
+    }
+]
